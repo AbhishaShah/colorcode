@@ -1,3 +1,3 @@
 #ColorCode
-Draw by selecting any color with one click
+Select Color and Start Draw
 
